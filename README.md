@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <title>Imagem Nerd ☝️</title>
+    <title>Imagem Nerd 🤓☝️</title>
 </head>
 <body>
     <figure>
